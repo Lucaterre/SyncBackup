@@ -12,6 +12,6 @@ then follow the instructions in terminal.
 ---
 
 TODO: 
-  - optional security with VeraCrypt-console to encrypt data (?)
+  - optional security layer with VeraCrypt-console to encrypt data (?)
 
 Alternative tool : grsync
