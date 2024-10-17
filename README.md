@@ -1,4 +1,4 @@
-My homemade *time machine* : lightweight solution for backup (sync + versioning) data using Rsync + Git.
+My homemade *time machine* CLI : lightweight solution for backup (sync + versioning) data using Rsync + Git.
 
 --- 
 
