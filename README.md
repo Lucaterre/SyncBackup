@@ -10,3 +10,5 @@ then follow the instructions
 
 TODO: 
   - optional security with VeraCrypt-console to encrypt data (?)
+
+Alternative : grsync
